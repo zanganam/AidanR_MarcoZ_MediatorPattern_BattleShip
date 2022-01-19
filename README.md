@@ -1,1 +1,1 @@
-# AidenR_MarcoZ_MediatorPattern_BattleShip
+# AidanR_MarcoZ_MediatorPattern_BattleShip
